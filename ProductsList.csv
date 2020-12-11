@@ -1,0 +1,196 @@
+﻿Product,Product Name,Cost,Color,Size,SizeRange,Weight,ProductLine,Class,Style,ModelName,Category,Subcategory
+HL-U509-R,"Sport-100 Helmet, Red",13.0863,Red,,NA,,S ,,,Sport-100,Accessories,Helmets
+HL-U509,"Sport-100 Helmet, Black",13.0863,Black,,NA,,S ,,,Sport-100,Accessories,Helmets
+HL-U509-B,"Sport-100 Helmet, Blue",13.0863,Blue,,NA,,S ,,,Sport-100,Accessories,Helmets
+CA-1098,AWC Logo Cap,6.9223,Multi,,NA,,S ,,U ,Cycling Cap,Clothing,Caps
+LJ-0192-S,"Long-Sleeve Logo Jersey, S",38.4923,Multi,S,S,,S ,,U ,Long-Sleeve Logo Jersey,Clothing,Jerseys
+LJ-0192-M,"Long-Sleeve Logo Jersey, M",38.4923,Multi,M,M,,S ,,U ,Long-Sleeve Logo Jersey,Clothing,Jerseys
+LJ-0192-L,"Long-Sleeve Logo Jersey, L",38.4923,Multi,L,L,,S ,,U ,Long-Sleeve Logo Jersey,Clothing,Jerseys
+LJ-0192-X,"Long-Sleeve Logo Jersey, XL",38.4923,Multi,XL,XL,,S ,,U ,Long-Sleeve Logo Jersey,Clothing,Jerseys
+FR-R92R-62,"HL Road Frame - Red, 62",868.6342,Red,62,60-62 CM,2.3,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R92R-44,"HL Road Frame - Red, 44",868.6342,Red,44,42-46 CM,2.12,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R92R-48,"HL Road Frame - Red, 48",868.6342,Red,48,48-52 CM,2.16,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R92R-52,"HL Road Frame - Red, 52",868.6342,Red,52,48-52 CM,2.2,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R92R-56,"HL Road Frame - Red, 56",868.6342,Red,56,54-58 CM,2.24,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R38B-58,"LL Road Frame - Black, 58",204.6251,Black,58,54-58 CM,2.46,R ,L ,U ,LL Road Frame,Components,Road Frames
+FR-R38B-60,"LL Road Frame - Black, 60",204.6251,Black,60,60-62 CM,2.48,R ,L ,U ,LL Road Frame,Components,Road Frames
+FR-R38B-62,"LL Road Frame - Black, 62",204.6251,Black,62,60-62 CM,2.5,R ,L ,U ,LL Road Frame,Components,Road Frames
+FR-R38B-44,"LL Road Frame - Black, 44",204.6251,Black,44,42-46 CM,2.32,R ,L ,U ,LL Road Frame,Components,Road Frames
+FR-R38B-48,"LL Road Frame - Black, 48",204.6251,Black,48,48-52 CM,2.36,R ,L ,U ,LL Road Frame,Components,Road Frames
+FR-R38B-52,"LL Road Frame - Black, 52",204.6251,Black,52,48-52 CM,2.4,R ,L ,U ,LL Road Frame,Components,Road Frames
+FR-M94S-42,"HL Mountain Frame - Silver, 42",747.2002,Silver,42,42-46 CM,2.72,M ,H ,U ,HL Mountain Frame,Components,Mountain Frames
+FR-M94S-46,"HL Mountain Frame - Silver, 46",747.2002,Silver,46,42-46 CM,2.84,M ,H ,U ,HL Mountain Frame,Components,Mountain Frames
+FR-M94B-42,"HL Mountain Frame - Black, 42",739.041,Black,42,42-46 CM,2.72,M ,H ,U ,HL Mountain Frame,Components,Mountain Frames
+FR-M94B-46,"HL Mountain Frame - Black, 46",739.041,Black,46,42-46 CM,2.84,M ,H ,U ,HL Mountain Frame,Components,Mountain Frames
+FR-M94B-38,"HL Mountain Frame - Black, 38",739.041,Black,38,38-40 CM,2.68,M ,H ,U ,HL Mountain Frame,Components,Mountain Frames
+FR-M94S-38,"HL Mountain Frame - Silver, 38",747.2002,Silver,38,38-40 CM,2.68,M ,H ,U ,HL Mountain Frame,Components,Mountain Frames
+BK-M68S-38,"Mountain-200 Silver, 38",1265.6195,Silver,38,38-40 CM,23.35,M ,H ,U ,Mountain-200,Bikes,Mountain Bikes
+BK-M68S-42,"Mountain-200 Silver, 42",1265.6195,Silver,42,42-46 CM,23.77,M ,H ,U ,Mountain-200,Bikes,Mountain Bikes
+BK-M68S-46,"Mountain-200 Silver, 46",1265.6195,Silver,46,42-46 CM,24.13,M ,H ,U ,Mountain-200,Bikes,Mountain Bikes
+BK-M68B-38,"Mountain-200 Black, 38",1251.9813,Black,38,38-40 CM,23.35,M ,H ,U ,Mountain-200,Bikes,Mountain Bikes
+BK-M68B-42,"Mountain-200 Black, 42",1251.9813,Black,42,42-46 CM,23.77,M ,H ,U ,Mountain-200,Bikes,Mountain Bikes
+BK-M68B-46,"Mountain-200 Black, 46",1251.9813,Black,46,42-46 CM,24.13,M ,H ,U ,Mountain-200,Bikes,Mountain Bikes
+BK-R89R-58,"Road-250 Red, 58",1554.9479,Red,58,54-58 CM,15.79,R ,H ,U ,Road-250,Bikes,Road Bikes
+BK-R89B-44,"Road-250 Black, 44",1554.9479,Black,44,42-46 CM,14.77,R ,H ,U ,Road-250,Bikes,Road Bikes
+BK-R89B-48,"Road-250 Black, 48",1554.9479,Black,48,48-52 CM,15.13,R ,H ,U ,Road-250,Bikes,Road Bikes
+BK-R89B-52,"Road-250 Black, 52",1554.9479,Black,52,48-52 CM,15.42,R ,H ,U ,Road-250,Bikes,Road Bikes
+BK-R89B-58,"Road-250 Black, 58",1554.9479,Black,58,54-58 CM,15.68,R ,H ,U ,Road-250,Bikes,Road Bikes
+BK-R64Y-38,"Road-550-W Yellow, 38",713.0798,Yellow,38,38-40 CM,17.35,R ,M ,W ,Road-550-W,Bikes,Road Bikes
+BK-R64Y-40,"Road-550-W Yellow, 40",713.0798,Yellow,40,38-40 CM,17.77,R ,M ,W ,Road-550-W,Bikes,Road Bikes
+BK-R64Y-42,"Road-550-W Yellow, 42",713.0798,Yellow,42,42-46 CM,18.13,R ,M ,W ,Road-550-W,Bikes,Road Bikes
+BK-R64Y-44,"Road-550-W Yellow, 44",713.0798,Yellow,44,42-46 CM,18.42,R ,M ,W ,Road-550-W,Bikes,Road Bikes
+BK-R64Y-48,"Road-550-W Yellow, 48",713.0798,Yellow,48,48-52 CM,18.68,R ,M ,W ,Road-550-W,Bikes,Road Bikes
+HB-M243,LL Mountain Handlebars,19.7758,NA,,NA,,M ,L ,,LL Mountain Handlebars,Components,Handlebars
+HB-M763,ML Mountain Handlebars,27.4925,NA,,NA,,M ,M ,,ML Mountain Handlebars,Components,Handlebars
+HB-M918,HL Mountain Handlebars,53.3999,NA,,NA,,M ,H ,,HL Mountain Handlebars,Components,Handlebars
+HB-R504,LL Road Handlebars,19.7758,NA,,NA,,R ,L ,,LL Road Handlebars,Components,Handlebars
+HB-R720,ML Road Handlebars,27.4925,NA,,NA,,R ,M ,,ML Road Handlebars,Components,Handlebars
+HB-R956,HL Road Handlebars,53.3999,NA,,NA,,R ,H ,,HL Road Handlebars,Components,Handlebars
+FR-R72Y-38,"ML Road Frame-W - Yellow, 38",360.9428,Yellow,38,38-40 CM,2.18,R ,M ,W ,ML Road Frame-W,Components,Road Frames
+FR-R72Y-40,"ML Road Frame-W - Yellow, 40",360.9428,Yellow,40,38-40 CM,2.22,R ,M ,W ,ML Road Frame-W,Components,Road Frames
+FR-R72Y-42,"ML Road Frame-W - Yellow, 42",360.9428,Yellow,42,42-46 CM,2.26,R ,M ,W ,ML Road Frame-W,Components,Road Frames
+FR-R72Y-44,"ML Road Frame-W - Yellow, 44",360.9428,Yellow,44,42-46 CM,2.3,R ,M ,W ,ML Road Frame-W,Components,Road Frames
+FR-R72Y-48,"ML Road Frame-W - Yellow, 48",360.9428,Yellow,48,48-52 CM,2.34,R ,M ,W ,ML Road Frame-W,Components,Road Frames
+FR-R92B-62,"HL Road Frame - Black, 62",868.6342,Black,62,60-62 CM,2.3,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R92B-44,"HL Road Frame - Black, 44",868.6342,Black,44,42-46 CM,2.12,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R92B-48,"HL Road Frame - Black, 48",868.6342,Black,48,48-52 CM,2.16,R ,H ,U ,HL Road Frame,Components,Road Frames
+FR-R92B-52,"HL Road Frame - Black, 52",868.6342,Black,52,48-52 CM,2.2,R ,H ,U ,HL Road Frame,Components,Road Frames
+GL-H102-S,"Half-Finger Gloves, S",9.1593,Black,S,S,,S ,,U ,Half-Finger Gloves,Clothing,Gloves
+GL-H102-M,"Half-Finger Gloves, M",9.1593,Black,M,M,,S ,,U ,Half-Finger Gloves,Clothing,Gloves
+GL-H102-L,"Half-Finger Gloves, L",9.1593,Black,L,L,,S ,,U ,Half-Finger Gloves,Clothing,Gloves
+VE-C304-S,"Classic Vest, S",23.749,Blue,S,S,,S ,,U ,Classic Vest,Clothing,Vests
+VE-C304-M,"Classic Vest, M",23.749,Blue,M,M,,S ,,U ,Classic Vest,Clothing,Vests
+VE-C304-L,"Classic Vest, L",23.749,Blue,L,L,,S ,,U ,Classic Vest,Clothing,Vests
+SH-W890-S,"Women's Mountain Shorts, S",26.1763,Black,S,S,,M ,,W ,Women's Mountain Shorts,Clothing,Shorts
+SH-W890-M,"Women's Mountain Shorts, M",26.1763,Black,M,M,,M ,,W ,Women's Mountain Shorts,Clothing,Shorts
+SH-W890-L,"Women's Mountain Shorts, L",26.1763,Black,L,L,,M ,,W ,Women's Mountain Shorts,Clothing,Shorts
+WB-H098,Water Bottle - 30 oz.,1.8663,NA,,NA,,S ,,,Water Bottle,Accessories,Bottles and Cages
+BC-M005,Mountain Bottle Cage,3.7363,NA,,NA,,M ,,,Mountain Bottle Cage,Accessories,Bottles and Cages
+BC-R205,Road Bottle Cage,3.3623,NA,,NA,,R ,,,Road Bottle Cage,Accessories,Bottles and Cages
+PK-7098,Patch Kit/8 Patches,0.8565,NA,,NA,,S ,,,Patch kit,Accessories,Tires and Tubes
+SO-R809-M,"Racing Socks, M",3.3623,White,M,M,,R ,,U ,Racing Socks,Clothing,Socks
+SO-R809-L,"Racing Socks, L",3.3623,White,L,L,,R ,,U ,Racing Socks,Clothing,Socks
+RA-H123,Hitch Rack - 4-Bike,44.88,NA,,NA,,S ,,,Hitch Rack - 4-Bike,Accessories,Bike Racks
+CL-9009,Bike Wash - Dissolver,2.9733,NA,,NA,,S ,,,Bike Wash,Accessories,Cleaners
+FE-6654,Fender Set - Mountain,8.2205,NA,,NA,,M ,,,Fender Set - Mountain,Accessories,Fenders
+ST-1401,All-Purpose Bike Stand,59.466,NA,,NA,,M ,,,All-Purpose Bike Stand,Accessories,Bike Stands
+HY-1023-70,Hydration Pack - 70 oz.,20.5663,Silver,70,70,,S ,,,Hydration Pack,Accessories,Hydration Packs
+SJ-0194-S,"Short-Sleeve Classic Jersey, S",41.5723,Yellow,S,S,,S ,,U ,Short-Sleeve Classic Jersey,Clothing,Jerseys
+SJ-0194-M,"Short-Sleeve Classic Jersey, M",41.5723,Yellow,M,M,,S ,,U ,Short-Sleeve Classic Jersey,Clothing,Jerseys
+SJ-0194-L,"Short-Sleeve Classic Jersey, L",41.5723,Yellow,L,L,,S ,,U ,Short-Sleeve Classic Jersey,Clothing,Jerseys
+SJ-0194-X,"Short-Sleeve Classic Jersey, XL",41.5723,Yellow,XL,XL,,S ,,U ,Short-Sleeve Classic Jersey,Clothing,Jerseys
+FR-T98Y-60,"HL Touring Frame - Yellow, 60",601.7437,Yellow,60,60-62 CM,3.08,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+FR-T67Y-62,"LL Touring Frame - Yellow, 62",199.8519,Yellow,62,60-62 CM,3.2,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T98Y-46,"HL Touring Frame - Yellow, 46",601.7437,Yellow,46,42-46 CM,2.96,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+FR-T98Y-50,"HL Touring Frame - Yellow, 50",601.7437,Yellow,50,48-52 CM,3,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+FR-T98Y-54,"HL Touring Frame - Yellow, 54",601.7437,Yellow,54,54-58 CM,3.04,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+FR-T98U-46,"HL Touring Frame - Blue, 46",601.7437,Blue,46,42-46 CM,2.96,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+FR-T98U-50,"HL Touring Frame - Blue, 50",601.7437,Blue,50,48-52 CM,3,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+FR-T98U-54,"HL Touring Frame - Blue, 54",601.7437,Blue,54,54-58 CM,3.04,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+FR-T98U-60,"HL Touring Frame - Blue, 60",601.7437,Blue,60,60-62 CM,3.08,T ,H ,U ,HL Touring Frame,Components,Touring Frames
+RD-2308,Rear Derailleur,53.9282,Silver,,NA,215,,,,Rear Derailleur,Components,Derailleurs
+FR-T67U-50,"LL Touring Frame - Blue, 50",199.8519,Blue,50,48-52 CM,3.1,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67U-54,"LL Touring Frame - Blue, 54",199.8519,Blue,54,54-58 CM,3.14,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67U-58,"LL Touring Frame - Blue, 58",199.8519,Blue,58,54-58 CM,3.16,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67U-62,"LL Touring Frame - Blue, 62",199.8519,Blue,62,60-62 CM,3.2,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67Y-44,"LL Touring Frame - Yellow, 44",199.8519,Yellow,44,42-46 CM,3.02,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67Y-50,"LL Touring Frame - Yellow, 50",199.8519,Yellow,50,48-52 CM,3.1,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67Y-54,"LL Touring Frame - Yellow, 54",199.8519,Yellow,54,54-58 CM,3.14,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67Y-58,"LL Touring Frame - Yellow, 58",199.8519,Yellow,58,54-58 CM,3.16,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-T67U-44,"LL Touring Frame - Blue, 44",199.8519,Blue,44,42-46 CM,3.02,T ,L ,U ,LL Touring Frame,Components,Touring Frames
+FR-M63S-40,"ML Mountain Frame-W - Silver, 40",199.3757,Silver,40,38-40 CM,2.77,M ,M ,W ,ML Mountain Frame-W,Components,Mountain Frames
+FR-M63S-42,"ML Mountain Frame-W - Silver, 42",199.3757,Silver,42,42-46 CM,2.81,M ,M ,W ,ML Mountain Frame-W,Components,Mountain Frames
+FR-M63S-46,"ML Mountain Frame-W - Silver, 46",199.3757,Silver,46,42-46 CM,2.85,M ,M ,W ,ML Mountain Frame-W,Components,Mountain Frames
+RB-9231,Rear Brakes,47.286,Silver,,NA,317,,,,Rear Brakes,Components,Brakes
+SE-M236,LL Mountain Seat/Saddle,12.0413,NA,,NA,,M ,L ,,LL Mountain Seat/Saddle 2,Components,Saddles
+SE-M798,ML Mountain Seat/Saddle,17.3782,NA,,NA,,M ,M ,,ML Mountain Seat/Saddle 2,Components,Saddles
+SE-M940,HL Mountain Seat/Saddle,23.3722,NA,,NA,,M ,H ,,HL Mountain Seat/Saddle 2,Components,Saddles
+SE-R581,LL Road Seat/Saddle,12.0413,NA,,NA,,R ,L ,,LL Road Seat/Saddle 1,Components,Saddles
+SE-R908,ML Road Seat/Saddle,17.3782,NA,,NA,,T ,M ,,ML Road Seat/Saddle 2,Components,Saddles
+SE-R995,HL Road Seat/Saddle,23.3722,NA,,NA,,R ,H ,,HL Road Seat/Saddle 2,Components,Saddles
+SE-T312,LL Touring Seat/Saddle,12.0413,NA,,NA,,T ,L ,,LL Touring Seat/Saddle,Components,Saddles
+SE-T762,ML Touring Seat/Saddle,17.3782,NA,,NA,,T ,M ,,ML Touring Seat/Saddle,Components,Saddles
+SE-T924,HL Touring Seat/Saddle,23.3722,NA,,NA,,T ,H ,,HL Touring Seat/Saddle,Components,Saddles
+FR-M21S-42,"LL Mountain Frame - Silver, 42",144.5938,Silver,42,42-46 CM,2.92,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FR-M21S-44,"LL Mountain Frame - Silver, 44",144.5938,Silver,44,42-46 CM,2.96,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FR-M21S-48,"LL Mountain Frame - Silver, 48",144.5938,Silver,48,48-52 CM,3,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FR-M21S-52,"LL Mountain Frame - Silver, 52",144.5938,Silver,52,48-52 CM,3.04,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+TT-M928,Mountain Tire Tube,1.8663,NA,,NA,,M ,,,Mountain Tire Tube,Accessories,Tires and Tubes
+TT-R982,Road Tire Tube,1.4923,NA,,NA,,R ,,,Road Tire Tube,Accessories,Tires and Tubes
+TT-T092,Touring Tire Tube,1.8663,NA,,NA,,T ,,,Touring Tire Tube,Accessories,Tires and Tubes
+FR-M21B-42,"LL Mountain Frame - Black, 42",136.785,Black,42,42-46 CM,2.92,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FR-M21B-44,"LL Mountain Frame - Black, 44",136.785,Black,44,42-46 CM,2.96,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FR-M21B-48,"LL Mountain Frame - Black, 48",136.785,Black,48,48-52 CM,3,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FR-M21B-52,"LL Mountain Frame - Black, 52",136.785,Black,52,48-52 CM,3.04,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+TI-M267,LL Mountain Tire,9.3463,NA,,NA,,M ,L ,,LL Mountain Tire,Accessories,Tires and Tubes
+TI-M602,ML Mountain Tire,11.2163,NA,,NA,,M ,M ,,ML Mountain Tire,Accessories,Tires and Tubes
+TI-M823,HL Mountain Tire,13.09,NA,,NA,,M ,H ,,HL Mountain Tire,Accessories,Tires and Tubes
+TI-R092,LL Road Tire,8.0373,NA,,NA,,R ,L ,,LL Road Tire,Accessories,Tires and Tubes
+TI-R628,ML Road Tire,9.3463,NA,,NA,,R ,M ,,ML Road Tire,Accessories,Tires and Tubes
+TI-R982,HL Road Tire,12.1924,NA,,NA,,R ,H ,,HL Road Tire,Accessories,Tires and Tubes
+TI-T723,Touring Tire,10.8423,NA,,NA,,T ,,,Touring Tire,Accessories,Tires and Tubes
+PD-M282,LL Mountain Pedal,17.9776,Silver/Black,,NA,218,M ,L ,,LL Mountain Pedal,Components,Pedals
+PD-M340,ML Mountain Pedal,27.568,Silver/Black,,NA,215,M ,M ,,ML Mountain Pedal,Components,Pedals
+PD-M562,HL Mountain Pedal,35.9596,Silver/Black,,NA,185,M ,H ,,HL Mountain Pedal,Components,Pedals
+PD-R347,LL Road Pedal,17.9776,Silver/Black,,NA,189,R ,L ,,LL Road Pedal,Components,Pedals
+PD-R563,ML Road Pedal,27.568,Silver/Black,,NA,168,R ,M ,,ML Road Pedal,Components,Pedals
+PD-R853,HL Road Pedal,35.9596,Silver/Black,,NA,149,R ,H ,,HL Road Pedal,Components,Pedals
+PD-T852,Touring Pedal,35.9596,Silver/Black,,NA,,T ,,,Touring Pedal,Components,Pedals
+FR-M63S-38,"ML Mountain Frame-W - Silver, 38",199.3757,Silver,38,38-40 CM,2.73,M ,M ,W ,ML Mountain Frame-W,Components,Mountain Frames
+FR-M21B-40,"LL Mountain Frame - Black, 40",136.785,Black,40,38-40 CM,2.88,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FR-M21S-40,"LL Mountain Frame - Silver, 40",144.5938,Silver,40,38-40 CM,2.88,M ,L ,U ,LL Mountain Frame,Components,Mountain Frames
+FD-2342,Front Derailleur,40.6216,Silver,,NA,88,,,,Front Derailleur,Components,Derailleurs
+HB-T721,LL Touring Handlebars,20.464,NA,,NA,,T ,L ,,LL Touring Handlebars,Components,Handlebars
+HB-T928,HL Touring Handlebars,40.6571,NA,,NA,,T ,H ,,HL Touring Handlebars,Components,Handlebars
+FB-9873,Front Brakes,47.286,Silver,,NA,317,,,,Front Brakes,Components,Brakes
+CS-4759,LL Crankset,77.9176,Black,,NA,600,,L ,,LL Crankset,Components,Cranksets
+CS-6583,ML Crankset,113.8816,Black,,NA,635,,M ,,ML Crankset,Components,Cranksets
+CS-9183,HL Crankset,179.8156,Black,,NA,575,,H ,,HL Crankset,Components,Cranksets
+CH-0234,Chain,8.9866,Silver,,NA,,,,,Chain,Components,Chains
+BK-T44U-60,"Touring-2000 Blue, 60",755.1508,Blue,60,60-62 CM,27.9,T ,M ,U ,Touring-2000,Bikes,Touring Bikes
+BK-T79Y-46,"Touring-1000 Yellow, 46",1481.9379,Yellow,46,42-46 CM,25.13,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T79Y-50,"Touring-1000 Yellow, 50",1481.9379,Yellow,50,48-52 CM,25.42,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T79Y-54,"Touring-1000 Yellow, 54",1481.9379,Yellow,54,54-58 CM,25.68,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T79Y-60,"Touring-1000 Yellow, 60",1481.9379,Yellow,60,60-62 CM,25.9,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T18U-54,"Touring-3000 Blue, 54",461.4448,Blue,54,54-58 CM,29.68,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18U-58,"Touring-3000 Blue, 58",461.4448,Blue,58,54-58 CM,29.9,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18U-62,"Touring-3000 Blue, 62",461.4448,Blue,62,60-62 CM,30,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18Y-44,"Touring-3000 Yellow, 44",461.4448,Yellow,44,42-46 CM,28.77,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18Y-50,"Touring-3000 Yellow, 50",461.4448,Yellow,50,48-52 CM,29.13,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18Y-54,"Touring-3000 Yellow, 54",461.4448,Yellow,54,54-58 CM,29.42,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18Y-58,"Touring-3000 Yellow, 58",461.4448,Yellow,58,54-58 CM,29.79,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18Y-62,"Touring-3000 Yellow, 62",461.4448,Yellow,62,60-62 CM,30,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T79U-46,"Touring-1000 Blue, 46",1481.9379,Blue,46,42-46 CM,25.13,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T79U-50,"Touring-1000 Blue, 50",1481.9379,Blue,50,48-52 CM,25.42,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T79U-54,"Touring-1000 Blue, 54",1481.9379,Blue,54,54-58 CM,25.68,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T79U-60,"Touring-1000 Blue, 60",1481.9379,Blue,60,60-62 CM,25.9,T ,H ,U ,Touring-1000,Bikes,Touring Bikes
+BK-T44U-46,"Touring-2000 Blue, 46",755.1508,Blue,46,42-46 CM,27.13,T ,M ,U ,Touring-2000,Bikes,Touring Bikes
+BK-T44U-50,"Touring-2000 Blue, 50",755.1508,Blue,50,48-52 CM,27.42,T ,M ,U ,Touring-2000,Bikes,Touring Bikes
+BK-T44U-54,"Touring-2000 Blue, 54",755.1508,Blue,54,54-58 CM,27.68,T ,M ,U ,Touring-2000,Bikes,Touring Bikes
+BK-R79Y-40,"Road-350-W Yellow, 40",1082.51,Yellow,40,38-40 CM,15.35,R ,M ,W ,Road-350-W,Bikes,Road Bikes
+BK-R79Y-42,"Road-350-W Yellow, 42",1082.51,Yellow,42,42-46 CM,15.77,R ,M ,W ,Road-350-W,Bikes,Road Bikes
+BK-R79Y-44,"Road-350-W Yellow, 44",1082.51,Yellow,44,42-46 CM,16.13,R ,M ,W ,Road-350-W,Bikes,Road Bikes
+BK-R79Y-48,"Road-350-W Yellow, 48",1082.51,Yellow,48,48-52 CM,16.42,R ,M ,W ,Road-350-W,Bikes,Road Bikes
+BK-R19B-58,"Road-750 Black, 58",343.6496,Black,58,54-58 CM,20.79,R ,L ,U ,Road-750,Bikes,Road Bikes
+BK-T18U-44,"Touring-3000 Blue, 44",461.4448,Blue,44,42-46 CM,28.77,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-T18U-50,"Touring-3000 Blue, 50",461.4448,Blue,50,48-52 CM,29.13,T ,L ,U ,Touring-3000,Bikes,Touring Bikes
+BK-M38S-38,"Mountain-400-W Silver, 38",419.7784,Silver,38,38-40 CM,26.35,M ,M ,W ,Mountain-400-W,Bikes,Mountain Bikes
+BK-M38S-40,"Mountain-400-W Silver, 40",419.7784,Silver,40,38-40 CM,26.77,M ,M ,W ,Mountain-400-W,Bikes,Mountain Bikes
+BK-M38S-42,"Mountain-400-W Silver, 42",419.7784,Silver,42,42-46 CM,27.13,M ,M ,W ,Mountain-400-W,Bikes,Mountain Bikes
+BK-M38S-46,"Mountain-400-W Silver, 46",419.7784,Silver,46,42-46 CM,27.42,M ,M ,W ,Mountain-400-W,Bikes,Mountain Bikes
+BK-M18S-40,"Mountain-500 Silver, 40",308.2179,Silver,40,38-40 CM,27.35,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18S-42,"Mountain-500 Silver, 42",308.2179,Silver,42,42-46 CM,27.77,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18S-44,"Mountain-500 Silver, 44",308.2179,Silver,44,42-46 CM,28.13,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18S-48,"Mountain-500 Silver, 48",308.2179,Silver,48,48-52 CM,28.42,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18S-52,"Mountain-500 Silver, 52",308.2179,Silver,52,48-52 CM,28.68,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18B-40,"Mountain-500 Black, 40",294.5797,Black,40,38-40 CM,27.35,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18B-42,"Mountain-500 Black, 42",294.5797,Black,42,42-46 CM,27.77,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18B-44,"Mountain-500 Black, 44",294.5797,Black,44,42-46 CM,28.13,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18B-48,"Mountain-500 Black, 48",294.5797,Black,48,48-52 CM,28.42,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BK-M18B-52,"Mountain-500 Black, 52",294.5797,Black,52,48-52 CM,28.68,M ,L ,U ,Mountain-500,Bikes,Mountain Bikes
+BB-7421,LL Bottom Bracket,23.9716,NA,,NA,223,,L ,,LL Bottom Bracket,Components,Bottom Brackets
+BB-8107,ML Bottom Bracket,44.9506,NA,,NA,168,,M ,,ML Bottom Bracket,Components,Bottom Brackets
+BB-9108,HL Bottom Bracket,53.9416,NA,,NA,170,,H ,,HL Bottom Bracket,Components,Bottom Brackets
+BK-R19B-44,"Road-750 Black, 44",343.6496,Black,44,42-46 CM,19.77,R ,L ,U ,Road-750,Bikes,Road Bikes
+BK-R19B-48,"Road-750 Black, 48",343.6496,Black,48,48-52 CM,20.13,R ,L ,U ,Road-750,Bikes,Road Bikes
+BK-R19B-52,"Road-750 Black, 52",343.6496,Black,52,48-52 CM,20.42,R ,L ,U ,Road-750,Bikes,Road Bikes
